@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Notes-SPA/static/css/main.29f6fae4.chunk.css",
-    "main.js": "/Notes-SPA/static/js/main.adeee544.chunk.js",
-    "main.js.map": "/Notes-SPA/static/js/main.adeee544.chunk.js.map",
+    "main.js": "/Notes-SPA/static/js/main.b97f1967.chunk.js",
+    "main.js.map": "/Notes-SPA/static/js/main.b97f1967.chunk.js.map",
     "runtime-main.js": "/Notes-SPA/static/js/runtime-main.513caa32.js",
     "runtime-main.js.map": "/Notes-SPA/static/js/runtime-main.513caa32.js.map",
     "static/js/2.1359728b.chunk.js": "/Notes-SPA/static/js/2.1359728b.chunk.js",
     "static/js/2.1359728b.chunk.js.map": "/Notes-SPA/static/js/2.1359728b.chunk.js.map",
     "index.html": "/Notes-SPA/index.html",
-    "precache-manifest.0e34b19abedbe6f643fa09d8a7733b9c.js": "/Notes-SPA/precache-manifest.0e34b19abedbe6f643fa09d8a7733b9c.js",
+    "precache-manifest.7e78d3c57f47dea852edc3c67ee927cd.js": "/Notes-SPA/precache-manifest.7e78d3c57f47dea852edc3c67ee927cd.js",
     "service-worker.js": "/Notes-SPA/service-worker.js",
     "static/css/main.29f6fae4.chunk.css.map": "/Notes-SPA/static/css/main.29f6fae4.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.513caa32.js",
     "static/js/2.1359728b.chunk.js",
     "static/css/main.29f6fae4.chunk.css",
-    "static/js/main.adeee544.chunk.js"
+    "static/js/main.b97f1967.chunk.js"
   ]
 }
