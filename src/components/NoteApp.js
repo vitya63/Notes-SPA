@@ -10,7 +10,7 @@ const NotesApp = () => {
     const notesFromStorage = JSON.parse(localStorage.getItem('noteList'));
     const noteIdFromStorage = +localStorage.getItem('noteId');
 
-    if (notesFromStorage) {
+    if (notesFromStorage && notesFromStorage.length > 0) {
       setNoteList([...notesFromStorage]);
       setId(noteIdFromStorage);
     }
